@@ -1,0 +1,8 @@
+
+/*@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');*/
+/* Esta es la forma de integrar la fuente en la hoja de CSS*/
+
+p{
+    font-family: 'Roboto', sans-serif;
+
+}
